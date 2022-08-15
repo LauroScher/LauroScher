@@ -1,5 +1,5 @@
 ### Prazer! Lauro Scher 👋
-- 👨‍💻 Estudante de programção em busca do seu 1° emprego como desenvolvedor web; 
+- 👨‍💻 Estudante de programação em busca do seu 1° emprego como desenvolvedor web; 
 <div align="center">
   <a href="https://www.linkedin.com/in/lauro-scher-468975215/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauroScher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
