@@ -1,10 +1,5 @@
 ### Prazer! Meu nome é Lauro Scher 👋
-- 👨‍💻 Formando em Análise e Desenvolvimento de Sistemas. Atualmente estou me especializando em cibersegurança pela Cesar School e procurando uma base sólida em meus estudos para almejar ser um especialista na área. 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauroScher&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroScher&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-  
+- 👨‍💻 Formando em Análise e Desenvolvimento de Sistemas. Atualmente estou me especializando em cibersegurança pela Cesar School e procurando uma base sólida em meus estudos para almejar ser um especialista na área.   
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="JS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
